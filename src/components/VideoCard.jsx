@@ -18,7 +18,7 @@ const VideoCard = ({ video }) => {
             src={thumbnails.high.url}
             alt=""
             style={{
-              width: "380px",
+              width: "378px",
               height: "280px",
               objectFit: "contain",
               borderRadius: "10px",
