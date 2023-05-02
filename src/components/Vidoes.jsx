@@ -29,7 +29,7 @@ const Vidoes = ({ selectedCatogory }) => {
             {video.id.videoId && (
               <Col
                 md={3}
-                style={{ width: "400px", padding: "2px", margin: "1rem" }}
+                style={{ width: "380px", padding: "2px", margin: "1rem" }}
               >
                 <VideoCard key={video.id.videoId} video={video} />
               </Col>
