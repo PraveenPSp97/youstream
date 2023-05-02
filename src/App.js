@@ -22,6 +22,7 @@ function App() {
 
         <Box>
           <Routes>
+            <Route path="/youstram" exact element={<Feed />} />
             <Route path="/" exact element={<Feed />} />
             <Route path="/video/:id" exact element={<Feed />} />
             <Route path="/channel/:id" exact element={<ChannelDetails />} />
