@@ -21,6 +21,7 @@ This is a video streaming application similar to YouTube, developed using React 
 
 - React
 - Bootstrap
+- rapid api
 
 
 ## Installation
