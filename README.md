@@ -8,6 +8,9 @@ This is a video streaming application similar to YouTube, developed using React 
 Access the live page https://praveenpsp97.github.io/youstream/
 
 
+![ezgif com-video-to-gif (2)](https://github.com/PraveenPSp97/youstream/assets/52876166/a7259979-b28a-434a-81b8-85ceac9508e4)
+
+
 ## Features
 
 
